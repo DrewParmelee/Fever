@@ -1,0 +1,253 @@
+{
+  "release": "v2026.10.08",
+  "archive": "Fever-Windows-x64.tar.gz",
+  "parts": [
+    {
+      "name": "Fever-Windows-x64.tar.gz.part001",
+      "size": 1610612736,
+      "sha256": "167e1a800944d276cd2a4a0ed31f79eccef6ccb0bba0c937b0904ba129b3c6de"
+    },
+    {
+      "name": "Fever-Windows-x64.tar.gz.part002",
+      "size": 1610612736,
+      "sha256": "ffb1912a24393ca2cb448dce7bea62452b08e9fdd2f72aafc89d4178edcbc012"
+    },
+    {
+      "name": "Fever-Windows-x64.tar.gz.part003",
+      "size": 1143446016,
+      "sha256": "a263215ecd316ed54cf74834a2e09a4864b9e39eb0ed8fc9d660359654058656"
+    }
+  ],
+  "files": [
+    {
+      "path": "Build/D3D12/D3D12Core.dll",
+      "size": 4725304,
+      "sha256": "625bd40005b1c3708695d5256ecf230d278e6b8edba5a88af70f3d91324f3052"
+    },
+    {
+      "path": "Build/GameAssembly.dll",
+      "size": 142209024,
+      "sha256": "40361c90d7235f66bc4736c06e8711db56fe9e55e305281a8ec70211e1fec2ec"
+    },
+    {
+      "path": "Build/Hivemind.exe",
+      "size": 667648,
+      "sha256": "a4b596130f036df4dcca05c56d0626996dab7d3b351d89f03b58a06da8b1ba60"
+    },
+    {
+      "path": "Build/Hivemind_Data/Plugins/x86_64/lib_burst_generated.dll",
+      "size": 9656320,
+      "sha256": "536c7c0e14010b0afd6f8bdb67d222cd1ffc3a70019eda1a292452b136b53fc5"
+    },
+    {
+      "path": "Build/Hivemind_Data/Plugins/x86_64/libonigwrap.dll",
+      "size": 551336,
+      "sha256": "6d539f2ad6e1b58d3c8836b9c3a1d50c97cbd7a6ca0c5de25d994a7c4b1ecf42"
+    },
+    {
+      "path": "Build/Hivemind_Data/Resources/unity default resources",
+      "size": 5922288,
+      "sha256": "96c07875f9764ceaa248eb5715503de54e55fe87166b909330a4ae209a644f70"
+    },
+    {
+      "path": "Build/Hivemind_Data/Resources/unity_builtin_extra",
+      "size": 419620,
+      "sha256": "b3207a266b1f476af5ecbd55909776a849bdd684711a8f3a9b1102c519a2c181"
+    },
+    {
+      "path": "Build/Hivemind_Data/RuntimeInitializeOnLoads.json",
+      "size": 33884,
+      "sha256": "c88fa3c77f85d330b1f83c94240d78a3de4fc0a9d23abfbdd00871adb285ece6"
+    },
+    {
+      "path": "Build/Hivemind_Data/ScriptingAssemblies.json",
+      "size": 7704,
+      "sha256": "759ac041a79a892b1c952fbf1932df24d84ad06cd0c89ceefaf0f7e6dc6170c1"
+    },
+    {
+      "path": "Build/Hivemind_Data/StreamingAssets/APVStreamingAssets/cab3a8f3c284ada4aab0db61409965e2/27b93b107bbcdde4aa8d0ae3da34ac70.bytes",
+      "size": 393216,
+      "sha256": "71d7d28660a7a0a4fe4552d0a4802c17b7fb24dc70a22d1f99f3dd3d36e0a4b9"
+    },
+    {
+      "path": "Build/Hivemind_Data/StreamingAssets/APVStreamingAssets/cab3a8f3c284ada4aab0db61409965e2/5b132476cdf332d4394bc652f2ba89e1.bytes",
+      "size": 98304,
+      "sha256": "2595801771cb3160d5425061ea21873df3c5dcda73df4dc49d5f88664f4f3b28"
+    },
+    {
+      "path": "Build/Hivemind_Data/StreamingAssets/APVStreamingAssets/cab3a8f3c284ada4aab0db61409965e2/68f1179fb18392945b0dc5a55f2eae86.bytes",
+      "size": 3392,
+      "sha256": "5fcb2c9cd7ee8eda9298b8da420db1f5261d8610d6d8b66f8fe6ef90275ffda5"
+    },
+    {
+      "path": "Build/Hivemind_Data/StreamingAssets/APVStreamingAssets/cab3a8f3c284ada4aab0db61409965e2/a7acb93166146934bab040c97c9931db.bytes",
+      "size": 245760,
+      "sha256": "6ebec14ede0757e5267027e00fc13d5cbeb0f5a571c8816b9f5b00adce3af313"
+    },
+    {
+      "path": "Build/Hivemind_Data/StreamingAssets/ContentArchives/archive_dependencies.bin",
+      "size": 260,
+      "sha256": "f18d62aa6bff5ee01197ef7c4ed66c4bea67fa17f1243f5992d6c58595e4cea9"
+    },
+    {
+      "path": "Build/Hivemind_Data/StreamingAssets/ContentArchives/archive_dependencies.txt",
+      "size": 262,
+      "sha256": "1cc5e52ee84ed42ef185fb669f18f3aaa80441ba59a4f39711694740f773526a"
+    },
+    {
+      "path": "Build/Hivemind_Data/StreamingAssets/ContentArchives/ef019b1cfa9235bcdc499ff8fe6a3e2c",
+      "size": 1734091,
+      "sha256": "602430df99d19acd43902b59c8a6539cc2b2d22d3436260a78eb911673307a38"
+    },
+    {
+      "path": "Build/Hivemind_Data/StreamingAssets/EntityScenes/e7bb403c3f3453e489b77920c58fea3d.0.entities",
+      "size": 202155268,
+      "sha256": "51b2c83fb9d012682955256bf5cb9518a48be27b3d078cd168ddd4ed9132ec9a"
+    },
+    {
+      "path": "Build/Hivemind_Data/StreamingAssets/EntityScenes/e7bb403c3f3453e489b77920c58fea3d.entityheader",
+      "size": 1044,
+      "sha256": "223d8fd9137352c065e9567bff4510ed33d2a571963ec8ab4f337b00774152b0"
+    },
+    {
+      "path": "Build/Hivemind_Data/StreamingAssets/EntityScenes/scene_info.bin",
+      "size": 228,
+      "sha256": "180f25d1001017953295cbc034c74ad8060763957967b3e23d9a3e2018f3eeb3"
+    },
+    {
+      "path": "Build/Hivemind_Data/StreamingAssets/UnityServicesProjectConfiguration.json",
+      "size": 2425,
+      "sha256": "3a8edae06aaf5c5fec90790502126c4c751cee76b418065d6f5c63d117868e2c"
+    },
+    {
+      "path": "Build/Hivemind_Data/app.info",
+      "size": 23,
+      "sha256": "b43a9a9b716e2b76a3785f0520f78d212bd50e67a8aea8d196f29a5e8c4125ba"
+    },
+    {
+      "path": "Build/Hivemind_Data/boot.config",
+      "size": 156,
+      "sha256": "3ab2a5ebcb3392d1ad69e96e14838b19a0f3ac05e03d4f0e402441397bd2f2ba"
+    },
+    {
+      "path": "Build/Hivemind_Data/globalgamemanagers",
+      "size": 927668,
+      "sha256": "af05482936c19e926d28ac2e617cfc4bcc59f59c6272050fd066e031819cea9c"
+    },
+    {
+      "path": "Build/Hivemind_Data/globalgamemanagers.assets",
+      "size": 65372788,
+      "sha256": "ffef11f3384797b86e82e63e607d92ceda43503c9b4e5942027a851824fd50e6"
+    },
+    {
+      "path": "Build/Hivemind_Data/globalgamemanagers.assets.resS",
+      "size": 18998688,
+      "sha256": "67065df1c99aa3e3cf5170dd79d0e8882a250649e761f9a3d46f881ac3661aef"
+    },
+    {
+      "path": "Build/Hivemind_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "size": 23524844,
+      "sha256": "ed2a711b9cb623800ebad783e2642083e2ea353db2631fe04af04802a2e7bb10"
+    },
+    {
+      "path": "Build/Hivemind_Data/il2cpp_data/Resources/Newtonsoft.Json.dll-resources.dat",
+      "size": 900,
+      "sha256": "531de49e73ddea25554c9f656f54da2a665946f3fec57048e0cfe3b9e49b03f8"
+    },
+    {
+      "path": "Build/Hivemind_Data/il2cpp_data/Resources/System.Data.dll-resources.dat",
+      "size": 93718,
+      "sha256": "98a7950ec6de3242c2e190dfa630188dfa32511a125542b94baa952d1c757d49"
+    },
+    {
+      "path": "Build/Hivemind_Data/il2cpp_data/Resources/System.Drawing.dll-resources.dat",
+      "size": 25453,
+      "sha256": "7c33aa707bc3fdc83991b81a97d6fc622b140762a767300f08f616c2c0a91255"
+    },
+    {
+      "path": "Build/Hivemind_Data/il2cpp_data/Resources/mscorlib.dll-resources.dat",
+      "size": 337563,
+      "sha256": "c5baa176a5b72cd545266340e42102d393a5e43d38c95796bc828918bb95277f"
+    },
+    {
+      "path": "Build/Hivemind_Data/level0",
+      "size": 12780,
+      "sha256": "06452ace4eafb4aa3f9d5a9f5e51c620580c9a092e582be183c917c162a50535"
+    },
+    {
+      "path": "Build/Hivemind_Data/level1",
+      "size": 384973752,
+      "sha256": "358d9c28e075d4b18f79c180752bd38c65481f81f8ca40828e1e467fe7210b68"
+    },
+    {
+      "path": "Build/Hivemind_Data/level1.resS",
+      "size": 901941424,
+      "sha256": "a26fce22e60d6fe90d669a2ee8fe81a586a0ae8ffc241908eb7b9f0013683da8"
+    },
+    {
+      "path": "Build/Hivemind_Data/resources.assets",
+      "size": 465672744,
+      "sha256": "641fe92ace0ef4e7c35826b17798c9bc2e1f4b0f794e0cd526b10e831de3f30b"
+    },
+    {
+      "path": "Build/Hivemind_Data/resources.assets.resS",
+      "size": 3598004320,
+      "sha256": "5e3d7f02a97f8c06c34585b9bdc130aede1a32d7f08b0bb37cb72f5a2d2b68ac"
+    },
+    {
+      "path": "Build/Hivemind_Data/resources.resource",
+      "size": 39586720,
+      "sha256": "bf300b84353bd4080d67fdcc437f82461916938dc435c495ea7da7bb4d9c7c02"
+    },
+    {
+      "path": "Build/Hivemind_Data/sharedassets0.assets",
+      "size": 657552,
+      "sha256": "7504ed4a44d170a11bc872957d9a17ef003994ef184abc12920811b7a40b366a"
+    },
+    {
+      "path": "Build/Hivemind_Data/sharedassets0.assets.resS",
+      "size": 1572864,
+      "sha256": "f7f0d4554672405c72cdb73950ed1e4b830f00acd052d8b5ae0dd6706eaf48bd"
+    },
+    {
+      "path": "Build/Hivemind_Data/sharedassets1.assets",
+      "size": 1233284560,
+      "sha256": "1a25682890809c8ffd2e83ec25b52ee6e7029b3080ecb726f7b93bb5a1bf83e8"
+    },
+    {
+      "path": "Build/Hivemind_Data/sharedassets1.assets.resS",
+      "size": 2354944032,
+      "sha256": "ad2229effaad6c8f43f1a314119ca23693416626809405bf1e39a4173fdc08a8"
+    },
+    {
+      "path": "Build/Hivemind_Data/sharedassets1.resource",
+      "size": 46239616,
+      "sha256": "f7450fbc018c81d5a94c7bfaddd957a125ba5b6e35da83ce9e4d30a37b85ec86"
+    },
+    {
+      "path": "Build/UnityCrashHandler64.exe",
+      "size": 1602472,
+      "sha256": "54f97229550b8ff478f1362c082ecda183f837c18839e46cdf889fcc38218236"
+    },
+    {
+      "path": "Build/UnityPlayer.dll",
+      "size": 36876720,
+      "sha256": "015871eb02057bc4e128a1283d7dc0e069c54c23a3b9e4dd3ff57a61b70f5aca"
+    },
+    {
+      "path": "Build/baselib.dll",
+      "size": 239536,
+      "sha256": "7f36262900479ad7718b4a5b0c14a4dc6b2d94ca6a481d480ec9e67ecaeb9e85"
+    },
+    {
+      "path": "Build/dstorage.dll",
+      "size": 206904,
+      "sha256": "cae65787f61514bec6f012f44546e68b19e39d8854a9ab52af813370d44b272a"
+    },
+    {
+      "path": "Build/dstoragecore.dll",
+      "size": 1482784,
+      "sha256": "cf85b19a92a8276f8baca0db9bbcd60735bad50768deb303d310e84d5f4fdd11"
+    }
+  ]
+}
